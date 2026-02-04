@@ -73,7 +73,7 @@ const Navbar = () => {
                 <img 
                   src={logo} 
                   alt="Tazviro Technologies" 
-                  className="h-10 w-auto object-contain"
+                  className="h-20 w-100 object-contain"
                 />
                 <div className="absolute inset-0 bg-primary/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity" />
               </motion.div>
